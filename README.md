@@ -6,6 +6,7 @@
   <li>Pham Ngoc Hau</li>
   <li>Truong Gia Thinh</li>
 </ul>
+
 # Run game
 python source_code.py
 # Screen shot
