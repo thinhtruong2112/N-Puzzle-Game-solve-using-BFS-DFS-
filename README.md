@@ -1,9 +1,11 @@
 # N-Puzzle-Game-solve-using-BFS-DFS
 # Member
-Nguyễn Thọ Nam
-Ngô Phúc Thành
-Phạm Ngọc Hậu
-Trương Gia Thịnh
+<ul>
+  <li>Nguyen Tho Nam</li>
+  <li>Ngo Phuc Thanh</li>
+  <li>Pham Ngoc Hau</li>
+  <li>Truong Gia Thinh</li>
+</ul>
 # Run game
 python source_code.py
 # Screen shot
